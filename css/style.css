@@ -1,0 +1,30 @@
+/* CSS Document */
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;}
+	
+
+	
+	
+button.yuhu {
+		color: white;
+		background: black;
+		text-align: center
+		}
+.btn-success	
+{
+		color: white;
+		background: red;
+		text-align: center
+		}
+	
+button.into {
+		color: black;
+		background: #ADD8E6;
+		text-align: center
+		}
